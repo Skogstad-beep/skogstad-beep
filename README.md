@@ -8,7 +8,7 @@
 <a href="https://instagram.com/skogstad.henrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skogstad.henrik" height="30" width="40" /></a>
 <a href="https://twitter.com/sk0gstad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sk0gstad" height="30" width="40" /></a>
 </p>
-
+<br><br>
 <p align="left">🔧 Dev</p>
 <p align="lest">
 <a href="https://stackoverflow.com/users/21278756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21278756" height="30" width="40" /></a>
